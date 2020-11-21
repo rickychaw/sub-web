@@ -197,7 +197,7 @@
       width="700px"
     >
       <div slot="title">
-        Remote config upload
+        上传远程配置
         <el-popover trigger="hover" placement="right" style="margin-left: 10px">
           <el-link type="primary" :href="sampleConfig" target="_blank" icon="el-icon-info">参考配置</el-link>
           <i class="el-icon-question" slot="reference"></i>
