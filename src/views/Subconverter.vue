@@ -5,7 +5,6 @@
         <el-card>
           <div slot="header">
             无界订阅转换
-	    
             <div style="display: inline-block; position:absolute; right: 20px">{{ backendVersion }}</div>
           </div>
           <el-container>
